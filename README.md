@@ -1,6 +1,6 @@
 ﻿## Social Links
 Aqui está uma page simples com HTML e CSS para disponibilizar os meus links. <br/>
-Acesse: 
+
 ## Technologies Used in Project
 <div style="display: inline_block">
     <img align="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
